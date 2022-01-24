@@ -36,7 +36,6 @@
                 <artifactId>spotbugs-maven-plugin</artifactId>
                 <version>4.5.2.0</version>
                 <executions>
-
                     <execution>
                         <id>check-77777777</id>
                         <phase>verify</phase>
